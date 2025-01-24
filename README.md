@@ -1,4 +1,4 @@
-# Earthquake Data Visualization Project
+# Earthquake Data Visualization
 
 ## Overview
 This project visualizes the global distribution of earthquakes that occurred in the previous month. Using a GeoJSON dataset, we map the earthquake locations and display their significance through interactive visualizations created with Plotly's `scatter_geo()` plot.
