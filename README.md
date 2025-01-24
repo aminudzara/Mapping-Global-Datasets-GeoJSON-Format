@@ -60,7 +60,7 @@ The earthquake dataset is obtained in GeoJSON format from the [USGS Earthquake C
      ```bash
      jupyter notebook
      ```
-   - Open the notebook file (`earthquake_visualization.ipynb`).
+   - Open the notebook file (`eq_world_map.ipynb`).
 
 3. **Run the Notebook**:
    - Execute the cells sequentially to:
